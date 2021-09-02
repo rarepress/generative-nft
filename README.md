@@ -10,6 +10,7 @@ Just run the following to get started:
 
 ```
 git clone https://github.com/rarepress/generative-nft.git
+cd generative-nft
 npm install
 node index
 ```
@@ -27,3 +28,8 @@ You can also check out the [customizable.js](customizable.js) file to learn how 
 # Learn more
 
 This project is powered by Rarepress, an NFT Operating System. Learn more about what you can do with Rarepress: https://rarepress.org
+
+# Troubleshoot
+
+- If you see some error, try updating your node.js to the latest version
+- Also try using `npm ci` instead of `npm install` to install the dependencies
