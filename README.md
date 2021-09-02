@@ -33,3 +33,4 @@ This project is powered by Rarepress, an NFT Operating System. Learn more about 
 
 - If you see some error, try updating your node.js to the latest version
 - Also try using `npm ci` instead of `npm install` to install the dependencies
+- If none of these work, try resetting the wallet by deleting the wallet file at `~/.mushie` by running `rm ~/.mushie` (WARNING: Please make sure to back up the wallet before you delete them). Once you reset, try running the app again, and it will let you generate a new seed (or import)
