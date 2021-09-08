@@ -8,6 +8,6 @@
   "dependencies": {
     "@dicebear/avatars": "^4.8.5",
     "@dicebear/open-peeps": "^4.8.5",
-    "rarepress": "^0.1.2"
+    "rarepress": "^0.1.6"
   }
 }
